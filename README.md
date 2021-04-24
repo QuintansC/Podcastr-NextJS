@@ -9,7 +9,7 @@ Aplicação de um produtor de Podcasts Publicos
 ### Features
 
 - [x] Aula 1 - Initial Commit
-- [ ] Aula 2
+- [x] Aula 2 - Aula 2 Commit
 - [ ] Aula 3
 - [ ] Aula 4
 - [ ] Aula 5
@@ -63,9 +63,9 @@ $ yarn dev
 ```
 ## Detalhes da aplicação 
 
-Notion: https://www.notion.so/Trilha-ReactJS-9e6bfe82f2d047fa805935a3242e7952
-Figma : https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate
-Json Config: https://www.notion.so/Deploy-Podcastr-2142f78ad75c4b32b2e4dc9e22c46189
+Notion: https://www.notion.so/Trilha-ReactJS-9e6bfe82f2d047fa805935a3242e7952 <br>
+Figma : https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate <br>
+Json Config: https://www.notion.so/Deploy-Podcastr-2142f78ad75c4b32b2e4dc9e22c46189</br>
 
 ## `Qualquer ajuda será bem vinda!` 
 <br>
