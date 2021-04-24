@@ -61,7 +61,12 @@ $ yarn dev
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000> 
 ```
-## Detalhes da aplicação  
+## Detalhes da aplicação 
+
+Notion: https://www.notion.so/Trilha-ReactJS-9e6bfe82f2d047fa805935a3242e7952
+Figma : https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate
+Json Config: https://www.notion.so/Deploy-Podcastr-2142f78ad75c4b32b2e4dc9e22c46189
+
 ## `Qualquer ajuda será bem vinda!` 
 <br>
 Ainda em desenvolvimento, o objetivo é a organização de maneira simples onde você pode se divertir fazendo suas obrigações e ouvindo uma musica sendo extremamente produtivo.
